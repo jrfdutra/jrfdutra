@@ -1,10 +1,4 @@
-## Bem-vindo(a) ao perfil do Júnior 😁
-
- <div>
-   <a href="https://github.com/jrfdutra">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrfdutra&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
- 
-</div>
+## Bem-vindo(a) ao perfil do Júnior
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
