@@ -1,16 +1,108 @@
-## Bem-vindo(a) ao perfil do Júnior
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/2e58fa88-102a-488c-8408-e1b07017ee08"/>
 <br>
- 
-### Me siga nas redes sociais!
- 
-<div> 
-  <a href="https://instagram.com/jrfdutra" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/jrfdutra1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=40&pause=1000&color=F7F7F7&width=1000&height=200&lines=Seja+bem-vindo+(a)!%7C;Meu+nome+%C3%A9+J%C3%BAnior%7C;Eu+sou+Analista+de+Sistemas%7C;Sou+Brasileiro+e+moro+em+Portugal.%7C)](https://git.io/typing-svg)
+
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jrfdutra&locale=pt_BR&card_width=1000&card_height=150)](https://git.io/streak-stats)
+
 </div>
+
+
+<div align="center"> 
+<a href="https://instagram.com/jrf.dutra" target="_blank">
+<img align="center" height="84" width="84" src="https://github.com/user-attachments/assets/b9ba470c-6c9e-4467-a9e0-fc87c341bb0f">
+</a>
+
+<a href="mailto:cmp.1a.caroline@gmail.comnior@devfrontjr.tech">
+<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
+</a>
+
+
+<a  href="www.linkedin.com/in/jrfdutra1" target=_blank>
+<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
+</a>
+
+</div>
+
+<br>
+
+<div align="center" >
+   
+![Ashutosh's github activity graph](https://github.com/user-attachments/assets/32388b97-c7c5-4820-bde6-91d5d68dba30) 
+
+</div>
+
+<br>
+
+
+### Main skills:
+<div align="left"> 
+<img align="left" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
+
+<img align="left" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
+
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/f3af7913-2919-45a7-a685-4182c3a2228f">
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
+
+</div>
+
+<br>
+<br> 
+<br>
+<br>
+<br>
+<br> 
+
+
+<h2 align="left"> Studying in this moment: </h2>
+
+
+<div align="left"> 
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
+
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/f3af7913-2919-45a7-a685-4182c3a2228f">
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc">
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
+
+</div>
+
+
+<div align="center">
+  
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br> 
+
+
+<img width=100% src="https://github.com/user-attachments/assets/28a2b4ae-044b-4a62-ab8c-1b9cfb5db4ea"/>
+
+
+
+
+
+
+
+
