@@ -31,7 +31,7 @@
 
 <div align="center" >
    
-![Ashutosh's github activity graph](https://github.com/user-attachments/assets/32388b97-c7c5-4820-bde6-91d5d68dba30) 
+![Ashutosh's github activity graph](https://github.com/user-attachments/assets/998f7af7-666d-4d76-81a7-0552fefb0134) 
 
 </div>
 
