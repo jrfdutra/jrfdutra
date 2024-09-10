@@ -1,7 +1,7 @@
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/2e58fa88-102a-488c-8408-e1b07017ee08"/>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=40&pause=1000&color=F7F7F7&width=1000&height=200&lines=Seja+bem-vindo+(a)!%7C;Meu+nome+%C3%A9+J%C3%BAnior%7C;Eu+sou+Analista+de+Sistemas%7C;Sou+Brasileiro+e+moro+em+Portugal.%7C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=40&pause=1000&color=F7F7F7&width=1000&height=200&lines=Seja+bem-vindo+(a)!%7C;Meu+nome+%C3%A9+J%C3%BAnior%7C;Eu+sou+Engenheiro+de+Software%7C;Sou+Brasileiro+e+moro+em+Portugal.%7C)](https://git.io/typing-svg)
 
 
 <div align="center">
