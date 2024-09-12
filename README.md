@@ -12,11 +12,11 @@
 
 <br>
 <div align="center"> 
-<a href="https://instagram.com/jrf.dutra" target="_blank">
+<a href="https://instagram.com/jrfdutra_" target="_blank">
 <img align="center" height="84" width="84" src="https://github.com/user-attachments/assets/b9ba470c-6c9e-4467-a9e0-fc87c341bb0f">
 </a>
 
-<a href="mailto:cmp.1a.caroline@gmail.comnior@devfrontjr.tech">
+<a href="mailto:junior@devfrontjr.tech">
 <img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
 </a>
 
@@ -65,7 +65,7 @@
 <br> 
 
 <hr>
-<div align="center"> Estou estudando no momento:: 
+<div align="center"> Estou estudando no momento: 
 <hr>
 <br>
 <br>
